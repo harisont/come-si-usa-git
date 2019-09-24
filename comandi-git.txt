@@ -3,3 +3,5 @@ Comandi principali:
 - git status (mostra lo stato del progetto: file tracciati, modifiche fatte etc.)
 - git add (aggiunge un file al progetto)
 - git commit (salva un'istantanea del progetto. Eseguito con -a e -m tiene conto di tutte le modifiche e permette di associare alla "versione" salvata un messaggio)
+- git log (mostra lo storico dei commit)
+- git gui (fa partire l'interfaccia grafica)
