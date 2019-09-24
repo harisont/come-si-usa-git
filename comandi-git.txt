@@ -2,3 +2,4 @@ Comandi principali:
 - git init (inizializza un progetto git)
 - git status (mostra lo stato del progetto: file tracciati, modifiche fatte etc.)
 - git add (aggiunge un file al progetto)
+- git commit (salva un'istantanea del progetto. Eseguito con -a e -m tiene conto di tutte le modifiche e permette di associare alla "versione" salvata un messaggio)
