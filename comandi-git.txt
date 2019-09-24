@@ -1,0 +1,4 @@
+Comandi principali:
+- git init (inizializza un progetto git)
+- git status (mostra lo stato del progetto: file tracciati, modifiche fatte etc.)
+- git add (aggiunge un file al progetto)
